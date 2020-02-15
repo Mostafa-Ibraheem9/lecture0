@@ -16,7 +16,7 @@ div{
   width: 500px;
   padding: 30px;
   font-weight: bold;
-  border: 5px dotted red;
+
 }
 
 table{
@@ -34,4 +34,21 @@ th, td{
 
 th{
   background-color: #e6dcc5;
+}
+
+div.1{
+  font-size: 500px;
+  border: 5px dotted red;
+}
+
+div.2{
+  font-size: 30;
+}
+
+div.3{
+  font-size: 20;
+}
+
+span.name{
+  font-style: italic;
 }
